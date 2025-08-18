@@ -93,7 +93,7 @@ export default function About() {
            to advance AI innovation while ensuring trustworthiness and real-world impact.
         </p>
         <a
-          href="./assets/Rupesh_Ghimire_CV.pdf"
+          href="/Portfolio/assets/Rupesh_Ghimire_CV.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="ml-2 inline-block px-3 py-2 rounded-md bg-primary text-white text-sm"
