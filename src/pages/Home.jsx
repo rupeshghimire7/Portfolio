@@ -122,7 +122,7 @@ const featured = [
     tech: 'YOLO, Transfer Learning, Django, React Native',
     blurb:
       'Developed a landmark recognition system for 15 landmark categories, achieving 97% accuracy with YOLOv8. Built end-to-end mobile app featuring image upload, prediction, map navigation, and JWT authentication.',
-    img: './assets/gantavya.png', // replace with your image path
+    img: '/Portfolio/assets/gantavya.png', // replace with your image path
     cta: {
       to: 'https://github.com/Gantavya-app/gantavya-backend',
       label: 'View on GitHub',
@@ -133,7 +133,7 @@ const featured = [
     tech: 'BERT, NLP, Flask API',
     blurb:
       'Preprocessed Nepali corpus with SpaCy/NLTK and fine-tuned NepBERTa for sentiment classification. Achieved ~76% accuracy and deployed as real-time API for Nepali text sentiment analysis.',
-    img: './assets/SentimentAnalysis.png', // replace with your image path
+    img: '/Portfolio/assets/SentimentAnalysis.png', // replace with your image path
     cta: {
       to: 'https://github.com/rupeshghimire7/Nepali-Sentiment-Analysis-Using-NepBERTa',
       label: 'View on GitHub',
@@ -144,7 +144,7 @@ const featured = [
     tech: 'Collaborative Filtering, Content Based Filtering, Recommender System, Python, Flask ',
     blurb:
       'Used public dataset from Kaggle on Books and cleaned it to build Recommender System on Books using Collaborative Filtering, Content Based Filtering and Hybrid Approaches.',
-    img: './assets/book_recommend.jpg', // replace with your image path
+    img: '/Portfolio/assets/book_recommend.jpg', // replace with your image path
     cta: {
       to: 'https://github.com/rupeshghimire7/Book_Recommender_System',
       label: 'View on GitHub',
@@ -185,7 +185,7 @@ export default function Home() {
           <div className="flex justify-center">
             <div className="relative">
               <img
-                src="./assets/portrait.jpg"
+                src="/Portfolio/assets/portrait.jpg"
                 alt="Rupesh Ghimire"
                 className="w-30 h-30 sm:w-32 sm:h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-white dark:border-slate-800 shadow-xl"
               />
@@ -220,7 +220,7 @@ export default function Home() {
                 Contact
               </Link>
               <a
-                href="./assets/Rupesh_Ghimire_CV.pdf"
+                href="/Portfolio/assets/Rupesh_Ghimire_CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-4 py-2 rounded-xl bg-white text-slate-900 hover:opacity-90 transition"
@@ -423,7 +423,7 @@ export default function Home() {
                 Contact me
               </Link>
               <a
-                href="./assets/Rupesh_Ghimire_CV.pdf"
+                href="/Portfolio/assets/Rupesh_Ghimire_CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-4 py-2 rounded-xl bg-white text-slate-900 hover:opacity-90 transition"
