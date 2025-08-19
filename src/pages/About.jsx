@@ -17,7 +17,7 @@ export default function About() {
       {/* Summary Card */}
       <div className="bg-white/60 dark:bg-slate-800/60 rounded-2xl p-8 shadow-lg backdrop-blur mb-12">
         <p className="text-slate-700 dark:text-slate-200 leading-relaxed">
-          With <strong>1.5+ year of professional experience</strong> as an 
+          With <strong>2+ years of professional experience</strong> where as an 
           AI/ML Engineer and Researcher, I’ve worked on <strong>large language models, 
           multimodal systems, federated learning, and model quantization</strong>.  
           I thrive on creating resource-efficient AI pipelines, advancing trustworthy ML, 
@@ -52,15 +52,15 @@ export default function About() {
           <ul className="space-y-3 text-slate-700 dark:text-slate-300">
             <li>
               <strong>AI/ML Engineer</strong> — North Star Developer’s Village  
-              <br /> Designing <em>federated learning pipelines, quantized models, robotics R&D</em>
+              <br /> Built <em>Company specific AI system design, RAG Projects, Custom Transformer Models, MLOps automation Pipeline, Deployment Workflows. Performed Pretraining, Instruction and PEFT finetune and RL (DPO) on LLMs</em>
             </li>
             <li>
               <strong>AI Research Intern</strong> — North Star Developer’s Village  
-              <br /> Worked on <em>transformers, multimodal AI, and security-focused ML</em>
+              <br /> Worked on <em> Literature Review, Prompt Engineering, and Custom Audio Classication Model</em>
             </li>
             <li>
-              <strong>Mentor </strong> — iCES Club
-              <br /> Guiding students into the field of Artificial Intelligence and Machine Learning
+              <strong>Data Science Mentor </strong> — Panacea Solutions Pvt. Ltd.
+              <br /> Guiding students with <em>fundamentals of Machine Learning and Deep Learning</em>
             </li>
           </ul>
         </div>
@@ -81,7 +81,7 @@ export default function About() {
         <p className="text-center text-slate-700 dark:text-slate-200 max-w-3xl mx-auto mt-4 leading-relaxed">
           I am motivated by building AI systems that are not only <em>powerful</em>, 
           but also <em>reliable, transparent, and accessible</em> — advancing both innovation 
-          and trustworthiness in real-world applications.
+          and reliability in real-world applications.
         </p>
       </div>
 
@@ -90,7 +90,7 @@ export default function About() {
         <h2 className="text-xl font-semibold mb-4">🤝 Let’s Collaborate</h2>
         <p className="text-slate-600 dark:text-slate-300 mb-6">
           I’m eager to work with <strong>researchers, professors, and industry leaders </strong> 
-           to advance AI innovation while ensuring trustworthiness and real-world impact.
+           to advance AI innovation through ensuring safety, reliability, accountability and robustness, providing real-world impact.
         </p>
         <a
           href="/Portfolio/assets/Rupesh_Ghimire_CV.pdf"
