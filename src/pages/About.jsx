@@ -31,6 +31,10 @@ export default function About() {
         <div className="bg-white/60 dark:bg-slate-800/60 rounded-2xl p-6 shadow-md backdrop-blur">
           <h2 className="text-xl font-bold mb-4">🎓 Education</h2>
           <ul className="space-y-3 text-slate-700 dark:text-slate-300">
+          <li>
+              <strong>Masters in Data Science</strong> — Charles Darwin University  
+              <br />  <strong>Learning:</strong> Data Engineering, advanced concepts of Data Science, Applied AI, Business Analytics, Data Mining and Data Warehouse, Cloud for AI    
+            </li>
             <li>
               <strong>B.E. Computer Engineering</strong> — Tribhuvan University  
               <br /> Graduated with <strong>75.05%</strong>  
@@ -52,7 +56,7 @@ export default function About() {
           <ul className="space-y-3 text-slate-700 dark:text-slate-300">
             <li>
               <strong>AI/ML Engineer</strong> — North Star Developer’s Village  
-              <br /> Built <em>Company specific AI system design, RAG Projects, Custom Transformer Models, MLOps automation Pipeline, Deployment Workflows. Performed Pretraining, Instruction and PEFT finetune and RL (DPO) on LLMs</em>
+              <br /> Built <em>Company specific AI system design, Server updates, R&D, RAG Projects, Custom Transformer Models, MLOps automation Pipeline, Deployment Workflows. Performed Pretraining, Instruction and PEFT finetune and RL (DPO) on LLMs. STT and TTS, Vision Models, MultiModal System Design and Architecture</em>
             </li>
             <li>
               <strong>AI Research Intern</strong> — North Star Developer’s Village  

@@ -24,7 +24,7 @@ function useInView(options = { threshold: 0.2 }) {
 
 const timeline = [
   {
-    year: 'Aug 2024-Present',
+    year: 'Aug 2024-Jun 2026',
     title: "AI/ML Engineer - (R&D Team) — NSDevil",
     details:
       "Worked on improving AI models for Edu-Tech domain by training image-to-text systems that better understand content using efficient learning methods. Built and deployed scalable AI services for web and mobile platforms, ensuring reliable performance and automated workflows for continuous updates. Enhanced mobile AI experiences by enabling collaborative learning across devices and optimizing models to run efficiently on limited hardware.",    
