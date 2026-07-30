@@ -45,7 +45,7 @@ const timeline = [
 tags: ["Artificial Intelligence", "Image Processing", "Pattern Recognition", "Digital Signal Processing", "Probability & Statistics", "Computer Architecture", "Software Engineering"],
   },
     {
-    year: 'June 2023 - Feb 2024',
+    year: 'Jun 2023 - Feb 2024',
     title: "Data Science Mentor — Panacea Solution Pvt. Ltd.",
     details:
       "Provided Mentorship sessions for 9 months to 3 batches of students (nearly 50 students total) in a 3-months/60 hour session. Designed and tutored a well structured course using my AI/ML expertise to simplify complex concepts and help them build real projects in Python, Machine Learning, and introductory Deep Learning.",
